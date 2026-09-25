@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/The-Barber-Lounge/static/css/main.efecc61a.css",
+    "main.js": "/The-Barber-Lounge/static/js/main.26a1a6f5.js",
+    "static/js/453.09d8d923.chunk.js": "/The-Barber-Lounge/static/js/453.09d8d923.chunk.js",
+    "static/media/beard-cutting.jpeg": "/The-Barber-Lounge/static/media/beard-cutting.cfec4baa1f4ddb3eb900.jpeg",
+    "static/media/Coiffure-homme-noir.jpeg": "/The-Barber-Lounge/static/media/Coiffure-homme-noir.6082dc5c46c14212bbf6.jpeg",
+    "static/media/Thabo.jpeg": "/The-Barber-Lounge/static/media/Thabo.9896bf3467d1939fb48a.jpeg",
+    "static/media/Daniel.jpeg": "/The-Barber-Lounge/static/media/Daniel.cd717397de33d8ee4312.jpeg",
+    "static/media/Marcus.jpeg": "/The-Barber-Lounge/static/media/Marcus.afaabc82f21aba57d708.jpeg",
+    "static/media/barber-lounge-logo-transparent.png": "/The-Barber-Lounge/static/media/barber-lounge-logo-transparent.9c2193271af661788fa6.png",
+    "static/media/logo.svg": "/The-Barber-Lounge/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/The-Barber-Lounge/index.html",
+    "main.efecc61a.css.map": "/The-Barber-Lounge/static/css/main.efecc61a.css.map",
+    "main.26a1a6f5.js.map": "/The-Barber-Lounge/static/js/main.26a1a6f5.js.map",
+    "453.09d8d923.chunk.js.map": "/The-Barber-Lounge/static/js/453.09d8d923.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efecc61a.css",
+    "static/js/main.26a1a6f5.js"
+  ]
+}
